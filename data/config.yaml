@@ -1,0 +1,13 @@
+videos:
+  - file: "data/speed camera 1.mp4"
+    homography: 
+      video_pts:
+        - 180, 109
+        - 240, 114
+        - 142, 133
+        - 200, 140
+      world_pts:
+        - 0, 0
+        - 6.6, 0
+        - 0, 4.5
+        - 6.6, 4.5     
